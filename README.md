@@ -272,7 +272,7 @@ end
 ```
 
 See the [rack-protection](https://github.com/rkh/rack-protection)
-documentation for futher information.
+documentation for further information.
 
 ### Testing
 
@@ -316,7 +316,7 @@ end
 ```
 
 See the [rack-test](https://github.com/brynary/rack-test) documentation
-for futher information.
+for further information.
 
 ### Extensions
 
